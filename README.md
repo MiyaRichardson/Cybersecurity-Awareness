@@ -4,8 +4,8 @@ Project is a web app consisting of a cyber hygiene assessment and two realistic 
 <br />
 
 <h2>Description</h2>
-- <b>HTML</b>
-- <b>CSS</b>
+- <b>HTML</br />
+- <b>CSS</br />
 - <b>Javascript</b>
 
 <h2>Environment Used</h2>
